@@ -1,13 +1,7 @@
 {
-    "workshoptitle": "AI Chatbot engine with Oracle AI Database and OCI Generative AI Services",
+    "workshoptitle": "Oracle AI Database -- AI Capabilities Deep-Dive Workshop",
     "help": "livelabs-help-db_us@oracle.com",
     "tutorials": [
-        {
-            "title": "Markdown Reference",
-            "description": "Markdown Reference and Cheatsheet",
-                "type": "livelabs",
-			"filename": "../../introduction/markdown-cheat-sheet.md"
-        },
         {
             "title": "Introduction",
             "description": "Introduction to the workshop and the labs that follow",
