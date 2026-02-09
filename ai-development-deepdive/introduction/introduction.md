@@ -1,4 +1,4 @@
-# Oracle Database AI Capabilities Deep-Dive Workshop
+# Oracle AI Database -- AI Capabilities Deep-Dive Workshop
 
 ## **About this Workshop**
 
@@ -20,7 +20,7 @@ By the end of this lab, you will have:
  
  ![rag image](images\overview.png " ")
 
-**_Estimated Time: 120 Minutes_**
+**_Estimated Time: 10 Minutes_**
 
 ## About Oracle AI Vector Search
 
@@ -29,3 +29,6 @@ Oracle AI Vector Search is a feature of Oracle Database 23ai that enables effici
 ## About Select AI
 
 Select AI generates natural language to interact with your database and LLMs through SQL to enhance user productivity and develop AI-based applications. Select AI simplifies and automates using generative AI, whether generating, running, and explaining SQL from a natural language prompt, using retrieval augmented generation with vector stores, generating synthetic data, or chatting with the LLM.
+
+You may now **proceed to the next lab**
+
